@@ -1,15 +1,18 @@
 # scripts
 
 
-INSTITUTO TEGNOLOGICO SUDAMERICANO
+                                                     INSTITUTO TEGNOLOGICO SUDAMERICANO
 
-DESARROLLO DE SOFTWARE
+                                                          DESARROLLO DE SOFTWARE
 
-FAUSTO SAQUINAULA
+                                                             FAUSTO SAQUINAULA
 
-4TO CICLO
+                                                                 4TO CICLO
 
-NOCTURNO
+                                                                  NOCTURNO
+                                                                  ----
+                                                                  ![image](https://github.com/user-attachments/assets/05f1c9a1-5d8a-4b23-b1a1-3b460ff9eb65)
+
 ---
 CREAR UN SCRIPT QUE EN LA PRIMERA PANTALLA MUESTRE LAS SIGUIENTE ESTRUCTURA DE DIRECTORIOS
 ![image](https://github.com/user-attachments/assets/678eda8c-eae4-4750-95f5-2df91050d274)
