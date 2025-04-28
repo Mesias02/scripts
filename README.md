@@ -41,6 +41,7 @@ Cambia el nombre de examen1.txt a examenfinal2.txt
 EN LA QUINTA PANTALLA DEBE MOSTRAR QUE HA ELIMINADO TODO
 ---
 Eliminado todo 
+
 ![image](https://github.com/user-attachments/assets/3db05b0f-2270-4c27-b5af-0b0d0985e6f1)
  
 
